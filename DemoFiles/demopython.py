@@ -1,8 +1,5 @@
-import math
 
-def calculate_area(radius):
-    return math.pi * radius * radius
+name = "Sir Prim"
+subject = "CC22"
 
-radius = float(input("Enter the radius of the circle: "))
-area = calculate_area(radius)
-print(f"The area of the circle is: {area}")
+print("Our Tuesday 7:30-10:10AM Class is",subject,"And our teacher is",name,"Hehe"
